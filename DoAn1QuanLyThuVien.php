@@ -10,7 +10,6 @@
         <h1 class="text-3xl font-bold mb-6 text-center">Quản Lý Thư Viện</h1>
 
         <!-- Form thêm sách -->
-        123 Quynh
         <div class="mb-6">
             <h2 class="text-xl font-semibold mb-4">Thêm Sách</h2>
             <input id="title" type="text" placeholder="Tên sách" class="border p-2 rounded w-full mb-2">
