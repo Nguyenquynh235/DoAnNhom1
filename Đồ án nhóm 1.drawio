@@ -1212,11 +1212,11 @@
             <mxPoint x="296.6" y="90.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r1B7qy9Z4m8oXXLAMSH7-13" value="đăng kí thẻ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="40" width="80" height="30" as="geometry" />
+        <mxCell id="r1B7qy9Z4m8oXXLAMSH7-13" value="Đăng kí thẻ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="321" y="42" width="79" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="r1B7qy9Z4m8oXXLAMSH7-14" value="thẻ bạn đọc&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="90" width="90" height="30" as="geometry" />
+        <mxCell id="r1B7qy9Z4m8oXXLAMSH7-14" value="Thẻ bạn đọc&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="321" y="92" width="88" height="26" as="geometry" />
         </mxCell>
         <mxCell id="r1B7qy9Z4m8oXXLAMSH7-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
