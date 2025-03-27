@@ -1312,7 +1312,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y_F_JMy0XgfoAjvGCLW6-13" value="Hóa đơn đền sách" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="510" y="7" width="120" height="30" as="geometry" />
+          <mxGeometry x="500" y="8" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y_F_JMy0XgfoAjvGCLW6-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
