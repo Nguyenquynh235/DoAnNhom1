@@ -1254,7 +1254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XIpkbrERf0pfcm47Novx" name="sơ đồ mức dưới đỉnh quản lí bạn đọc">
-    <mxGraphModel dx="1042" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1306,7 +1306,7 @@
             <mxPoint x="560" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r1B7qy9Z4m8oXXLAMSH7-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.834;exitY=1.12;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.257;entryY=0.136;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="r1B7qy9Z4m8oXXLAMSH7-5">
+        <mxCell id="r1B7qy9Z4m8oXXLAMSH7-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.834;exitY=1.12;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.257;entryY=0.136;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="r1B7qy9Z4m8oXXLAMSH7-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="514.998" y="180.62" as="sourcePoint" />
             <mxPoint x="732.29" y="240" as="targetPoint" />
@@ -1319,10 +1319,10 @@
             <mxPoint x="410" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEP-sC79lxed0bD77sp0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AEP-sC79lxed0bD77sp0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="458" y="148" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="AEP-sC79lxed0bD77sp0-2" value="Thủ thư" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AEP-sC79lxed0bD77sp0-2" value="Thủ thư" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="488" y="149.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
